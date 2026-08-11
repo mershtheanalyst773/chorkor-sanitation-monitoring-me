@@ -73,38 +73,38 @@ A separate school-level survey was also administered — 21 responses, all from 
 ## Dashboard Screenshots
 
 ### 1. Project Overview — All Communities
-![Overview dashboard - all communities](images/dashboard-01-overview-all-communities.jpeg)
+![Overview dashboard - all communities](dashboard-01-overview-all-communities.jpeg)
 
 KPI summary (estimated population, total households, average household size, households surveyed) alongside malaria case distribution, handwashing practices, waste disposal methods, project status, and top sanitation challenges (open defecation, open dumping, choked gutters, unhygienic water) across all three communities. **What to look at:** the Project Status donut (62% "in progress" at this aggregate view) and the Sanitation Challenges treemap, which is dominated by open defecation and open dumping.
 
 ### 2. Demographics & WASH — All Communities
-![Demographics and WASH dashboard - all communities](images/dashboard-02-demographics-wash-all-communities.jpeg)
+![Demographics and WASH dashboard - all communities](dashboard-02-demographics-wash-all-communities.jpeg)
 
 Gender and age breakdown of surveyed households, mosquito net usage, diarrhea case trends, stagnant water presence near homes, toilet type (shared vs. private), NHIS coverage, waste collection frequency, and main drinking water source. **What to look at:** nearly half of households (48.5%) report stagnant water near their home, and shared/public toilets (122) far outnumber private ones (45).
 
 ### 3. Chemuenaa — Project Overview
-![Chemuenaa overview dashboard](images/dashboard-03-chemuenaa-overview.jpeg)
+![Chemuenaa overview dashboard](dashboard-03-chemuenaa-overview.jpeg)
 
 Same KPI/chart layout as screenshot 1, filtered to Chemuenaa's 49 surveyed households. Notably, this community shows 0% "completed" project status — see [Key Findings by Community](#key-findings-by-community).
 
 ### 4. Lante Maami — Project Overview
-![Lante Maami overview dashboard](images/dashboard-04-lante-maami-overview.jpeg)
+![Lante Maami overview dashboard](dashboard-04-lante-maami-overview.jpeg)
 
 Filtered to Lante Maami's 43 households. Like Chemuenaa, no households here report a "completed" toilet status.
 
 ### 5. Chemuenaa — Demographics & WASH
-![Chemuenaa demographics dashboard](images/dashboard-05-chemuenaa-demographics.jpeg)
+![Chemuenaa demographics dashboard](dashboard-05-chemuenaa-demographics.jpeg)
 
 ### 6. Tee Garden — Project Overview
-![Tee Garden overview dashboard](images/dashboard-06-tee-garden-overview.jpeg)
+![Tee Garden overview dashboard](dashboard-06-tee-garden-overview.jpeg)
 
 Filtered to Tee Garden's 75 households — the only community where "completed" project status appears (20% of households), and where "open defecation" is the single largest reported sanitation challenge.
 
 ### 7. Tee Garden — Demographics & WASH
-![Tee Garden demographics dashboard](images/dashboard-07-tee-garden-demographics.jpeg)
+![Tee Garden demographics dashboard](dashboard-07-tee-garden-demographics.jpeg)
 
 ### 8. Lante Maami — Demographics & WASH
-![Lante Maami demographics dashboard](images/dashboard-08-lante-maami-demographics.jpeg)
+![Lante Maami demographics dashboard](dashboard-08-lante-maami-demographics.jpeg)
 
 *Screenshots 3–8 use the same underlying dashboard filtered to a single community, so progress and gaps can be compared community-by-community rather than only in aggregate.*
 
