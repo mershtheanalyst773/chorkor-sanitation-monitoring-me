@@ -217,11 +217,11 @@ pruclimate-me-dashboard/
     └── data-collection-framework.md
 ```
 
-> **Note on data privacy:** Raw survey response files are not included in this repository, since even without names they contain household-level detail. Only the anonymized, aggregated figures summarized in this README should be published publicly.
+> **Note on data privacy:** Raw survey response files are not included in this repository, since even without names they contain household-level detail. Only the anonymized, aggregated figures summarized in this README is published publicly.
 
 ---
 
 ## About Me
 
-*[Add 2–3 sentences here: your name, your background, and a link to your other data projects or LinkedIn.]*
+*Hi, I’m Mershead Gottah, a Data Analyst with a background in Monitoring & Evaluation and community development. I enjoy using data to understand real-world problems, uncover insights, and support better decision-making. This repository showcases some of my data analytics and M&E projects using tools such as Excel, SQL, Python, and Power BI.*
 
